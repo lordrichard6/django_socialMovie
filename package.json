@@ -1,0 +1,22 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "description": "Social network for movie maniacs",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "scripts": {
+    "compile:sass": "node-sass static/main.scss static/css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordrichard6/social_movie.git"
+  },
+  "author": "Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordrichard6/social_movie/issues"
+  },
+  "homepage": "https://github.com/lordrichard6/social_movie#readme"
+}
