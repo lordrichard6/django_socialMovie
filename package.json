@@ -4,7 +4,7 @@
   "description": "Social network for movie maniacs",
   "main": "index.js",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "scripts": {
     "compile:sass": "node-sass static/main.scss static/css/main.css -w"
